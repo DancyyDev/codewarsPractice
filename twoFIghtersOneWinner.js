@@ -52,3 +52,4 @@ function declareWinner(f1, f2, firstMove) {
     } else {
       return f2.name
     }
+}
